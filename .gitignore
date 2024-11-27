@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+webex_env/
+
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Optional: Dependencies and binaries
+lib/
+bin/
+
+#log file
+app.log
+
